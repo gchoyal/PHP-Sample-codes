@@ -73,3 +73,9 @@ function determine_text($text_english,$text_french)
 	else 
 		charencodeecho($text_french);
 }	
+
+
+
+
+/*CF7 STATE FIELD*/
+[select* selectedState "Alabama|AL" "Alaska|AK" "Arizona|AZ" "Arkansas|AR" "California|CA" "Colorado|CO" "Connecticut|CT" "Delaware|DE" "Washington DC|DC" "Florida|FL" "Georgia|GA" "Hawaii|HI" "Idaho|ID" "Illinois|IL" "Indiana|IN" "Iowa|IA" "Kansas|KS" "Kentucky|KY" "Louisiana|LA" "Maine|ME"  "Maryland|MD" "Massachusetts|MA" "Michigan|MI" "Minnesota|MN" "Mississippi|MS" "Missouri|MO" "Montana|MT" "Nebraska|NE" "Nevada|NV" "New Hampshire|NH" "New Jersey|NJ" "New Mexico|NM" "New York|NY" "North Carolina|NC" "North Dakota|ND" "Ohio|OH" "Oklahoma|OK" "Oregon|OR" "Pennslyvania|PA" "Rhode Island|RI" "South Carolina|SC" "South Dakota|SD" "Tennessee|TN" "Texas|TX" "Utah|UT" "Vermont|VT" "Virginia|VA" "Washington|WA" "West Virginia|WV" "Wisconsin|WI" "Wyoming|WY"]
